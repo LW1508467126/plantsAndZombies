@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Androidexp\\PlantsVsZombies1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jianjiao.wav",
+        "source": "F:\\Androidexp\\PlantsVsZombies1\\app\\src\\main\\res\\raw\\jianjiao.wav"
+    },
+    {
+        "merged": "F:\\Androidexp\\PlantsVsZombies1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgm.mp3",
+        "source": "F:\\Androidexp\\PlantsVsZombies1\\app\\src\\main\\res\\raw\\bgm.mp3"
+    },
+    {
+        "merged": "F:\\Androidexp\\PlantsVsZombies1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgmover.mp3",
+        "source": "F:\\Androidexp\\PlantsVsZombies1\\app\\src\\main\\res\\raw\\bgmover.mp3"
+    }
+]

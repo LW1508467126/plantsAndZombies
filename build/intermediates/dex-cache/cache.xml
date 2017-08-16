@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Androidexp\PlantsVsZombies1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c07a6a4c737ef37b3ddbf8dd436275cd2d137970">
+        <dex dex="F:\Androidexp\PlantsVsZombies1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e846f65fe4091468313532dc9354f0b25bfcb7b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Androidexp\PlantsVsZombies1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80482344c6d714a3c8d2ed8ba2c265b30eca0084">
+        <dex dex="F:\Androidexp\PlantsVsZombies1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_094c41d28d713c1d7e968478446b21cbb7eaadb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Androidexp\PlantsVsZombies1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_11e800f3314816754847df441f816234f9a502a1\classes.dex" />
+    </item>
+
+</items>
